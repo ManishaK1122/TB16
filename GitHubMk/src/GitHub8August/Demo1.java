@@ -10,7 +10,12 @@ public class Demo1
 	}
 	public void m2()
 	{
-		System.out.println("hii ");
+		System.out.println("m2 start ");
+	}
+	
+	public void  m3()
+	{
+		System.out.println("m3 start");
 	}
 	
 	public static void main(String[] args) 
