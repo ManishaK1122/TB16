@@ -11,7 +11,7 @@ public class Demo1
 	public void m2()
 	{
 		System.out.println("m2 start ");
-		System.out.println("hii thos is genkin");
+		System.out.println("hii this is genkin");
 	}
 	
 	public void  m3()
